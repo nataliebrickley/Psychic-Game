@@ -1,0 +1,22 @@
+body{
+    background: goldenrod;
+}
+.container {
+    margin-top: 20px; 
+}
+.main {
+    margin: 20px auto;
+    padding-top: 20px; 
+}
+.image {
+    text-align: center;
+}
+.scores {
+    margin-left: 100px;
+}
+.jumbotron {
+    background: #b51919;
+}
+p {
+    font-weight: bold;
+}
