@@ -20,7 +20,7 @@ document.onkeyup = function(event) {
     }
     //if the user already picked that letter send them an alert
     else if(guessesMade.includes(userGuess)) {
-        alert("You tried that already! Try picking a different letter.")
+        alert("You tried that letter already! Try picking a different letter.")
     }
     //If the user's guess matches the computer, we will alert the user, add 1 to our total wins,  and reset the computer's choice, guesses made, and guesses left:
     else if(userGuess === computerChoice){
