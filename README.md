@@ -1,1 +1,2 @@
 # Psychic-Game
+The Psychic Game is an app that randomly picks a letter, and the user has to guess which letter the app chose within 9 attempts. If the player guesses the correct letter within 9 attempts, they win. Otherwise, it will count as a loss. The game will track the user's guesses, number of attempts left, the number of wins, and the number of losses. 
